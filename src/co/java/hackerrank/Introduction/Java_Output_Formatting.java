@@ -44,7 +44,7 @@ package co.java.hackerrank.Introduction;
 import java.util.Scanner;
 
 /**
- * @author a562080
+ * @author kshithija
  *
  */
 public class Java_Output_Formatting {
