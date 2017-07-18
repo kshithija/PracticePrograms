@@ -1,0 +1,17 @@
+*) String of array elemetns using scanner
+
+String[] strs = new String[n];
+	        for(int i = 0; i<n; i++){
+	        	strs[i] = sc.next();
+	        }
+          
+method name : public String longestCommonPrefix(String[] strs)
+
+
+*) int[] nums = new int[n];
+        for(int ar_i = 0; ar_i < n; ar_i++){
+        	nums[ar_i] = in.nextInt();
+        }
+method name : public int longestCommonPrefix(int[] i)
+        
+        
