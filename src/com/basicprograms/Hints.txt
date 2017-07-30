@@ -24,4 +24,5 @@ method name : public String longestCommonPrefix(String[] strs)
         }
 method name : public int longestCommonPrefix(int[] i)
         
-        
+*)   // returning  array
+        return new int[]{1,2,3};        
