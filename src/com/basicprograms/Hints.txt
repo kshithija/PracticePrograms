@@ -7,6 +7,16 @@ String[] strs = new String[n];
           
 method name : public String longestCommonPrefix(String[] strs)
 
+*) Sample1 arr[];
+		arr = new Sample1[5];
+		
+		Scanner sc = new Scanner(System.in);
+		
+	for(int a=0; a<arr.length;a++){
+		arr[a]=new Sample1(sc.nextInt(), sc.next());
+	}
+		
+		/* arr[0] = new Sample1(1,"aman"); */
 
 *) int[] nums = new int[n];
         for(int ar_i = 0; ar_i < n; ar_i++){
